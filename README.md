@@ -1,1 +1,1 @@
-# solrdose-privacy
+# solrdose
